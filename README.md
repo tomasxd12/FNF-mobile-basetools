@@ -5,4 +5,4 @@ this repo is based on his mobile porting repo, this is here for easier access, m
 
 see porting [here](https://github.com/MobilePorting/FNF-mobile-basetools/blob/main/PORTING.md)
 
-anyways if you want to use this go on, or use the origninal from [here](https://github.com/MobilePorting/FNF-mobile-basetools)
+anyways if you want to use this go on, or use the original from [here](https://github.com/MobilePorting/FNF-mobile-basetools)
